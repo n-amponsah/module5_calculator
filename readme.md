@@ -110,14 +110,14 @@ Running Tests
 To run unit tests:
 pytest
 
-All tests pass successfully (99 tests)
+All tests pass successfully (115 tests)
 
 Code Coverage
 
 Coverage reports can be generated using:
 pytest --cov=app --cov-report=term-missing
 
-Current coverage: 82%
+Current coverage: 100%
 
 HTML coverage reports are generated in the htmlcov directory.
 
